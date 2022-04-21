@@ -10,5 +10,9 @@ package modell;
  * @author Laptop
  */
 public class Festmeny {
+     String eleresiut;
     
+    public Festmeny(String eleresiut){
+        this.eleresiut = eleresiut;
+    }
 }
